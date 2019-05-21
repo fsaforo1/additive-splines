@@ -1,2 +1,2 @@
 # adaptive-splines
-R Package for Penalized Splines
+Codes and notes for Dr. Marx' class on the Art of Smoothing
